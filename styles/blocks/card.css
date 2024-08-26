@@ -1,0 +1,36 @@
+.card {
+  background-position: center;
+  background-size: cover;
+}
+
+.card_type_film {
+  background-image: url("../../images/card-lot-01.jpg");
+}
+
+.card_type_book {
+  background-image: url("../../images/card-lot-02.jpg");
+}
+
+.card_type_picture {
+  background-image: url("../../images/card-lot-03.jpg");
+}
+
+.card__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px 40px 48px;
+}
+
+.card__title {
+  text-transform: uppercase;
+  font-size: 22px;
+  text-decoration: underline;
+  color: white;
+}
+
+.card__text {
+  font-size: 20px;
+  line-height: 24px;
+  color: white;
+}

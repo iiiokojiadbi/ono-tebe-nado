@@ -1,0 +1,29 @@
+.header {
+  padding: 92px 24px 96px;
+  display: grid;
+  grid-template-columns: 1fr 148px 1fr;
+  column-gap: 36px;
+}
+
+.header__menu {
+  margin: 44px 0 40px 0;
+  justify-self: flex-end;
+}
+
+/* .header__menu .menu__list-item {
+  margin-left: 32px;
+} */
+
+.header__logo {
+  width: 148px;
+  height: 105px;
+}
+
+.header__logo-img {
+  height: inherit;
+}
+
+.header__address {
+  justify-self: flex-end;
+  margin: 5px 25px 2px 0;
+}

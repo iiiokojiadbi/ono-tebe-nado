@@ -1,0 +1,22 @@
+.social {
+}
+
+.social__list {
+  display: flex;
+  flex-direction: row;
+  column-gap: 48px;
+}
+
+.social__list-item {
+  list-style-type: none;
+}
+
+.social__link {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.social__icon {
+  height: inherit;
+}

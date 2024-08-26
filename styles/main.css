@@ -1,0 +1,12 @@
+@import "global.css";
+
+@import "blocks/address.css";
+@import "blocks/social.css";
+@import "blocks/menu.css";
+@import "blocks/card.css";
+@import "blocks/overlay.css";
+@import "blocks/header.css";
+@import "blocks/cover.css";
+@import "blocks/lots.css";
+@import "blocks/about.css";
+@import "blocks/footer.css";

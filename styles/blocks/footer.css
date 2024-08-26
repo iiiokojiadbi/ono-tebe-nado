@@ -1,0 +1,23 @@
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 148px 1fr;
+  padding: 140px 50px 88px;
+}
+
+.footer__menu .menu__list {
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+
+.footer__menu .menu__list-item {
+  list-style-type: none;
+}
+
+.footer__menu .menu__link {
+  display: block;
+}
+
+.footer__social {
+  justify-self: end;
+}
