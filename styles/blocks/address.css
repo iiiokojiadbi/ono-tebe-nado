@@ -1,23 +1,20 @@
 .address {
   font-style: normal;
   font-size: 18px;
-  line-height: 24.3px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  line-height: 24px;
 }
 
 .address__link {
-  width: 240px;
   width: max-content;
-  text-decoration: none;
-  height: 24px;
-  border-bottom: 1px solid black;
   letter-spacing: 0.1px;
+  text-underline-position: under;
 }
 
 .address__street {
-  margin: 1px 2px 0 1px;
   width: 237px;
-  height: 49px;
-  letter-spacing: -0.1px;
+  padding-left: 1px;
+  margin-bottom: -2px;
 }

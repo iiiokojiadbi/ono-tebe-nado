@@ -1,5 +1,5 @@
 .about {
-  padding: 157px 24px 24px;
+  padding: 160px 24px 24px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;

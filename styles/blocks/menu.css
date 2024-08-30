@@ -10,7 +10,6 @@
 .menu__list-item {
   list-style-type: circle;
   height: 22px;
-  border-bottom: 1px solid black;
 }
 
 .menu__list-item_active {
@@ -18,7 +17,7 @@
 }
 
 .menu__link {
-  text-decoration: none;
   font-size: 18px;
   width: max-content;
+  text-underline-position: under;
 }

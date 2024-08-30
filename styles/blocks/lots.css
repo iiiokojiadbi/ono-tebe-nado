@@ -23,6 +23,10 @@
   height: 100%;
 }
 
+.lots__card-link {
+  text-decoration: none;
+}
+
 .lots__more-link {
   font-size: 20px;
   text-decoration: none;

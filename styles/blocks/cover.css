@@ -16,11 +16,10 @@
   font-size: 100px;
   line-height: 100px;
   letter-spacing: 30px;
-  height: 355px;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  gap: 20px;
 }
 
 .cover__title-row {
